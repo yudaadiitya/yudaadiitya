@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<center><img src="./trex.gif"/></center>
 <!--
 **yudaadiitya/yudaadiitya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
